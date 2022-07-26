@@ -4,11 +4,6 @@ Aplicación para registrar el peso de un usuario
 # Saludo
 Hola esta es una prueba de saludo.
 
-# Mensaje
-Mensaje de prueba
+# Message
+Este es un mensaje
 
-# Prueba
-borrar luego
-
-# Working
-Still working
